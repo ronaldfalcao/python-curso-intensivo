@@ -1,8 +1,7 @@
 # Python: Curso Intensivo
 Códigos-fonte de testes que fiz durante a leitura do livro Curso Intensivo de Python de Eric Matthes.
 
-
-##Informaçes sobre o livro
+**Informaçes sobre o livro**
 <table>
     <tr>
         <td>Título</td>
